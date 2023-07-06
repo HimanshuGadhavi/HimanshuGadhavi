@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1495592822108-9e6261896da8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60)]
+[![MasterHead]([https://images.unsplash.com/photo-1495592822108-9e6261896da8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60](https://www.shutterstock.com/image-photo/data-science-deep-learning-artificial-intelligence-1247255884))]
 <h1 align="center">Hi 👋, I'm Himanshu Gadhavi</h1>
 <h3 align="center">Data Science enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
